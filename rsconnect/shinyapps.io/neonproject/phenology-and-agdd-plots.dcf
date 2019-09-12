@@ -1,0 +1,12 @@
+name: phenology-and-agdd-plots
+title: phenology-and-agdd-plots
+username:
+account: neonproject
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1174753
+bundleId: 2403989
+url: https://neonproject.shinyapps.io/phenology-and-agdd-plots/
+when: 1568144188.56749
+asMultiple: FALSE
+asStatic: FALSE
