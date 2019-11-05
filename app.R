@@ -11,8 +11,8 @@ library(neonUtilities)
 library(plotly)
 library(zip)
 
-install.packages('BiocManager')
-BiocManager::install('rhdf5')
+#install.packages('BiocManager')
+#BiocManager::install('rhdf5')
 
 Sys.setenv('MAPBOX_TOKEN' = 'pk.eyJ1Ijoia2JyYWRsZTEiLCJhIjoiY2p5b3JrcG1yMDFvazNibzJ0bHMzcGdiayJ9.y4HFULDWOBCcT9hA6Pr9hg')
 #Sys.setenv(R_ZIPCMD="/usr/bin/zip")

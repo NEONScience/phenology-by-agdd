@@ -5,6 +5,6 @@ account: neonproject
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1174753
-bundleId: 2427341
+bundleId: 2566299
 url: https://neonproject.shinyapps.io/phenology-and-agdd-plots/
-when: 1568915743.09822
+when: 1572978170.01482

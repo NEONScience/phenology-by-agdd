@@ -1,7 +1,8 @@
+#devtools::install_github('NEONScience/NEON-utilities/neonUtilities')
 #install.packages("BiocManager")
 #BiocManager::install("flowClust")
-options(repos = BiocManager::repositories())
-getOption("repos")
+#options(repos = BiocManager::repositories())
+#getOption("repos")
 
 library(rsconnect)
 
